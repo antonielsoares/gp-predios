@@ -1,0 +1,90 @@
+
+body{
+    background-color: rgb(233, 235, 236);
+    margin: 0;
+    padding: 0;
+}
+
+.front{
+    text-align: center;
+    margin-top: 180px;
+}
+.fron_txt{
+    font-size: 28px;
+    padding: 0 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(91, 23, 151);
+}
+
+img{
+    width: 200px;
+    border-radius: 143px;
+    border-bottom: 7px solid rgb(219, 217, 217);
+    border-right: 5px solid rgb(219, 217, 217);
+}
+
+.pred_01{
+    color: blue;
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    cursor: pointer;
+    width: 150PX;
+    height: 33PX;
+    background-color: white;
+    border: none;
+    border-bottom: 5px solid rgb(219, 217, 217);
+    border-right: 3px solid rgb(219, 217, 217);
+
+}
+
+/******************************/
+
+/** AQUI COMEÇA A PAG_01 **/
+
+.end_predios{
+    margin-top: 88px;
+    padding: 20px 0;
+    
+}
+
+.name{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 565px;
+    height: 44px;
+    border-radius: 10px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    background-color: rgb(89, 89, 240);    
+}
+.txt_pag_01{
+    cursor: pointer;
+    text-align: center;
+    color: white;
+    padding-top: 10px;  
+}
+
+/** AQUI COMEÇA O VOUGUE **/
+.bk{
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: -10px;
+}
+.bk_01{
+    text-align: center;
+    padding: 20px 30px;
+}
+.quadrado_01{
+    display: block;
+}
+.quadrado{
+    display: inline-block;
+    width: 350px;
+    height: 500px;
+    margin-left: 23px;
+    margin-bottom: 20px;
+    background-color: rgb(197, 196, 196);
+}

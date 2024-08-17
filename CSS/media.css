@@ -1,0 +1,37 @@
+
+@media screen and (max-width: 470px) {
+    .front {margin-top: 130px;}
+    .fron_txt{
+        font-size: 18px;
+        padding: 0 20px;
+        
+    }
+    .pred_01 {font-size: 20px;}
+}
+
+/** pag_01**/
+@media screen and (max-width: 470px){
+    .name{ width: 305px;}
+    .txt_pag_01{
+        font-size: 20px;   
+    }
+}
+/** AQUI COMEÇA O VOUGUE **/
+@media screen and (max-width: 470px){
+    .txt_ed{
+        font-size: 27px;
+    }
+    .bk_01{
+        width: 100%;
+        padding: 0 2px;
+    }
+    .quadrado{
+        display: block;
+        margin: auto;
+        width: 280px;
+        height: 450px;
+        margin-bottom: 15px;
+        
+        
+    }
+}
