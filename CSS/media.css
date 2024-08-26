@@ -1,3 +1,4 @@
+/***** INDEX.HTML *****/
 
 @media screen and (max-width: 470px) {
     .front {margin-top: 130px;}
@@ -9,18 +10,16 @@
     .roda_pe {font-size: 9px;}
 }
 
-/** pag_01**/
+/***** ENDEREÇO DOS PREDIOS *****/
+
 @media screen and (max-width: 470px){
     .name{ width: 305px;}
-    .txt_pag_01{
-        font-size: 20px;   
-    }
+    .txt_pag_01{ font-size: 20px; }
 }
-/** AQUI COMEÇA O VOUGUE **/
+/***** PAGINA DOS PREDIOS *****/
+
 @media screen and (max-width: 470px){
-    .txt_ed{
-        font-size: 27px;
-    }
+    .txt_ed{ font-size: 27px; }
     .bk_01{
         width: 100%;
         padding: 0 2px;
@@ -30,8 +29,6 @@
         margin: auto;
         width: 280px;
         height: 450px;
-        margin-bottom: 15px;
-        
-        
+        margin-bottom: 15px;   
     }
 }

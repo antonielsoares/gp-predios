@@ -4,7 +4,6 @@ body{
     margin: 0;
     padding: 0;
 }
-
 .front{
     text-align: center;
     margin-top: 180px;
@@ -15,14 +14,12 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(91, 23, 151);
 }
-
 img{
     width: 200px;
     border-radius: 143px;
     border-bottom: 7px solid rgb(219, 217, 217);
     border-right: 5px solid rgb(219, 217, 217);
 }
-
 .pred_01{
     color: blue;
     font-size: 34px;
@@ -36,25 +33,20 @@ button{
     border: none;
     border-bottom: 5px solid rgb(219, 217, 217);
     border-right: 3px solid rgb(219, 217, 217);
-
 }
-
 .roda_pe{
     text-align: center;
     margin-top: 30px;
     font-size: 16px;
 }
 
+/***** ENDEREÇO DOS PREDIOS *****/
 
-/** AQUI COMEÇA A PAG_01 **/
-a{
-    text-decoration: none;
-}
+a{ text-decoration: none; }
 .end_g0{
     margin-top: 32px;
     margin-bottom: -83px;
 }
-
 .name_01{
     display: block;
     margin-left: auto;
@@ -70,9 +62,7 @@ a{
 .end_predios{
     margin-top: 88px;
     padding: 20px 0;
-    
 }
-
 .name{
     display: block;
     margin-left: auto;
@@ -91,7 +81,8 @@ a{
     padding-top: 10px;  
 }
 
-/** AQUI COMEÇA O VOUGUE **/
+/***** PAGINA DOS PREDIOS *****/
+
 .bk{
     text-align: center;
     font-size: 22px;
