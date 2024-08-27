@@ -106,7 +106,7 @@ a{
     height: 460px;
     margin-left: 23px;
     margin-bottom: 20px;
-    background-color: rgb(247, 250, 248);
+    background-color: rgb(255, 255, 255);
     border-bottom: 3px solid rgb(129, 129, 129);
     border-right: 5px solid rgb(148, 147, 147);
 }
@@ -120,25 +120,28 @@ a{
     display: inline-block;
 }
 .portas_01{
-    border: 2px solid rgb(136, 133, 133);
+    border: 1px solid rgb(136, 133, 133);
     width: 43px;
     height: 21px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    color: rgb(131, 130, 130);
 }
 .serial{
-    border: 2px solid rgb(136, 133, 133);
+    border: 1px solid rgb(136, 133, 133);
     width: 193px;
     height: 21px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    color: rgb(131, 130, 130);
 }
 .andar_01{
-    border: 2px solid rgb(136, 133, 133);
+    border: 1px solid rgb(136, 133, 133);
     width: 79px;
     height: 21px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
+    color: rgb(131, 130, 130);
 }
 
 /***** PESQUISA *****/
