@@ -43,11 +43,10 @@ button{
 
 /***** ENDEREÇO DOS PREDIOS *****/
 .back_img{
-    background-color: red;
     background-image: url(../IMG/vi.png);
     background-position: center;
     background-repeat: no-repeat;
-    width: 594px;
+    width: 410px;
     height: 122px;
     margin-left: auto;
     margin-right: auto;
