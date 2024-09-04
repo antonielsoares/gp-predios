@@ -17,8 +17,7 @@ body{
 .front_img{
     width: 200px;
     border-radius: 143px;
-    border-bottom: 7px solid rgb(219, 217, 217);
-    border-right: 5px solid rgb(219, 217, 217);
+    box-shadow: 7px 7px 11px rgb(94, 93, 93);
 }
 .pred_01{
     color: blue;
@@ -59,8 +58,7 @@ a{
     width: 305px;
     height: 44px;
     border-radius: 10px;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
+    box-shadow: 7px 7px 11px rgb(94, 93, 93);
     background-color: rgb(248, 99, 99);
 }
 .end_predios{
@@ -74,8 +72,7 @@ a{
     width: 565px;
     height: 44px;
     border-radius: 10px;
-    border-bottom: 3px solid black;
-    border-right: 3px solid black;
+    box-shadow: 7px 7px 11px rgb(94, 93, 93);
     background-color: rgb(89, 89, 240);    
 }
 .txt_pag_01{
@@ -107,8 +104,7 @@ a{
     margin-left: 23px;
     margin-bottom: 20px;
     background-color: rgb(255, 255, 255);
-    border-bottom: 3px solid rgb(129, 129, 129);
-    border-right: 5px solid rgb(148, 147, 147);
+    box-shadow: 10px 10px 20px rgb(94, 93, 93);
 }
 .posicoes{
     width: 344px;
