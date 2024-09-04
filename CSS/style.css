@@ -1,4 +1,4 @@
-
+/***** FRONT-END *****/
 body{
     background-color: rgb(214, 233, 243);
     margin: 0;
@@ -32,6 +32,20 @@ button{
     border: none;
     border-bottom: 5px solid rgb(219, 217, 217);
     border-right: 3px solid rgb(219, 217, 217);
+}
+.zap_link{
+    background-color: red;
+    position: fixed;
+margin-left: auto;
+
+}
+.zap{
+    background-size: contain;
+    cursor: pointer;
+    width: 100px;
+    position: fixed;
+    left: 1200px;
+    
 }
 .roda_pe{
     text-align: center;
