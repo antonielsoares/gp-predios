@@ -33,16 +33,11 @@ button{
     border-bottom: 5px solid rgb(219, 217, 217);
     border-right: 3px solid rgb(219, 217, 217);
 }
-.zap_link{
-    background-color: red;
-    position: fixed;
-margin-left: auto;
 
-}
 .zap{
     background-size: contain;
     cursor: pointer;
-    width: 100px;
+    width: 90px;
     position: fixed;
     left: 1200px;
     

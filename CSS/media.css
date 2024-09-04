@@ -15,6 +15,10 @@
 @media screen and (max-width: 470px){
     .name{ width: 305px;}
     .txt_pag_01{ font-size: 20px; }
+    .zap{
+        width: 55px;
+        left: 290px;
+    }
 }
 /***** PAGINA DOS PREDIOS *****/
 
