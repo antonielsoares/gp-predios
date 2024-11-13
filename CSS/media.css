@@ -26,6 +26,9 @@
     .zap{
         width: 55px;
         left: 290px;
+    }
+    .footer{
+        font-size: 11px;
     }   
 }
 @media screen and (max-width: 930px) {
