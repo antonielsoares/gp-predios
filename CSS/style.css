@@ -15,12 +15,10 @@ body{
     color: rgb(134, 133, 134);
 }
 .front_img{
-    width: 200px;
-    border-radius: 143px;
-    box-shadow: 7px 7px 11px rgb(94, 93, 93);
+    width: 470px;
 }
 .pred_01{
-    color: blue;
+    color: rgb(27, 27, 68);
     font-size: 34px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
