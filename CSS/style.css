@@ -13,14 +13,17 @@ body{
     padding: 0 130px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(134, 133, 134);
+    margin-top: -130px;
 }
 .front_img{
-    width: 470px;
+    width: 300px;
+    padding: 0 270px;
 }
 .pred_01{
     color: rgb(27, 27, 68);
     font-size: 34px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px 0;
 }
 button{
     cursor: pointer;
@@ -40,6 +43,14 @@ button{
     left: 1200px;
     bottom: 44PX;
     
+}
+.footer{
+    height: 30px;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-size: 16px;
 }
 .roda_pe{
     background-color: white;
