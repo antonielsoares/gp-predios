@@ -79,7 +79,7 @@ a{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: -93px;
-    width: 305px;
+    width: 565px;
     height: 44px;
     border-radius: 10px;
     box-shadow: 7px 7px 11px rgb(94, 93, 93);
@@ -113,7 +113,6 @@ a{
     margin: 30px auto;
     background-color: white;
     width: 900px;
-    height: 124px;
     text-align: center;
     font-size: 22px;
     margin-bottom: -5px;
@@ -123,10 +122,18 @@ a{
 .txt_ed{
     margin-top: 15px;
 }
+.img_maps{
+    width: 900px;
+    height: 66px;
+}
+.pragr_endereco{
+    margin: auto 0;
+    padding: 10px 0;
+}
 
 .bk_01{
     text-align: center;
-    padding: 20px 30px;
+    padding: 50px 30px;
 }
 .quadrado_01{
     display: block;

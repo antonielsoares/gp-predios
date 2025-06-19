@@ -45,6 +45,7 @@
 
 @media screen and (max-width: 470px){
     .txt_ed{ font-size: 27px; }
+    .img_maps{ width: 100%; }
     .bk_01{
         width: 100%;
         padding: 0 2px;
