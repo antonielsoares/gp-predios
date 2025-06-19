@@ -21,6 +21,7 @@
 /***** ENDEREÇO DOS PREDIOS *****/
 
 @media screen and (max-width: 470px){
+    .name_01{ width: 305px;}
     .name{ width: 305px;}
     .txt_pag_01{ font-size: 20px; }
     .zap{
@@ -36,11 +37,7 @@
         margin: 20px auto;
         width: auto;
     }    
-    .roda_pe{
-        width: auto;
-        padding-top: 15px;
-    }
-}
+
 /***** PAGINA DOS PREDIOS *****/
 
 @media screen and (max-width: 470px){

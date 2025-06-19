@@ -42,6 +42,7 @@ button{
     position: fixed;
     left: 1200px;
     bottom: 44PX;
+    z-index: 9;
     
 }
 .footer{
@@ -54,11 +55,12 @@ button{
 }
 .roda_pe{
     background-color: white;
-    padding-top: 2px;
-    padding: 30px 0;
+    width: 100%;
     text-align: center;
-    margin-top: 50px;
+    padding: 18px 0;
     font-size: 16px;
+    position: fixed;
+    bottom: 0;
 }
 
 /***** ENDEREÇO DOS PREDIOS *****/
