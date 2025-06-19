@@ -163,7 +163,7 @@ a{
     border: 1px solid rgb(136, 133, 133);
     width: 43px;
     height: 21px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: rgb(131, 130, 130);
 }
@@ -171,7 +171,7 @@ a{
     border: 1px solid rgb(136, 133, 133);
     width: 193px;
     height: 21px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: rgb(131, 130, 130);
 }
@@ -179,7 +179,7 @@ a{
     border: 1px solid rgb(136, 133, 133);
     width: 79px;
     height: 21px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: rgb(131, 130, 130);
 }
